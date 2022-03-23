@@ -1,4 +1,4 @@
-# its laksh
+# this web site is for daily thought
 - 👋 Hi, I’m laksh
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - <br>today thought  👇👇
 - <br>
--😇😇😇 money I a dust it flows like a water ever run behind it 🤑🤑🤑
+-be some thing and then say i am capible🦾🦾🦾
 <!---
 killerboy9090/killerboy9090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
